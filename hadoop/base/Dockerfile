@@ -1,5 +1,5 @@
 FROM openjdk:8-slim-stretch
-MAINTAINER Remigiusz Mrozek <mrozi.m@gmail.com>
+MAINTAINER "Remigiusz Mrozek <mrozi.m@gmail.com>"
 
 
 ENV JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/

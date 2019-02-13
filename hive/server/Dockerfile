@@ -1,6 +1,6 @@
 FROM deweydms/hadoop-base
 
-MAINTAINER Remigiusz Mrozek <mrozi.m@gmail.com>
+MAINTAINER "Remigiusz Mrozek <mrozi.m@gmail.com>"
 
 # Allow buildtime config of HIVE_VERSION
 ARG HIVE_VERSION
